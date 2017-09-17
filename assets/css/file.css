@@ -9,7 +9,9 @@ header {
 	height: 75px;
 	margin-left: 11.1%;
 	margin-bottom: 1%;
-	padding: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
 }
 
 #backgroundimg {
@@ -26,7 +28,7 @@ header {
 }
 
 #contact {
-	background-color: yellow;
+	background-color: white;
 	text-align: center;
 	width: 22%;
 	height: 150px;
@@ -34,6 +36,7 @@ header {
 	margin-top: 5%;
 	margin-right: 25%;
 	padding: 1%;
+	color: #63a8a4;
 }
 
 #alltext {
@@ -55,8 +58,8 @@ header {
 
 footer {
 	text-align: center;
-	background-color: #ccc;
-	color: orange;
+	background-color: #666666;
+	color: #7B7B7C;
 	height: 5%;
 }
 
