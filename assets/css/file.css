@@ -17,7 +17,7 @@ header {
 }
 
 #profile {
-	width: 100px;
+	width: 150px;
 	height: 100px;
 	float: left;
 }
@@ -33,17 +33,20 @@ header {
 	padding: 1%;
 }
 
-#text {
-	display: block;
-	width: 40%;
+#alltext {
 	background-color: red;
 	margin-left: 11.1%;
 	margin-top: 10%;
-	float: left;}
+	float: left;
+	width: 40%
+}
+
+#text {
+	display: block;
+}
 
 #aboutme {
 	border-color: black; 2px; border-style: solid;
-	width: 200px;
 }
 
 footer {
