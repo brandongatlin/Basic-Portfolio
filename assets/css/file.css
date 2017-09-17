@@ -59,6 +59,7 @@ footer {
 }
 
 .socialicon {
-	height: 1px;
-	width: 1px;
+	float: left;
+	height: 36px;
+	width: 36px;
 }
