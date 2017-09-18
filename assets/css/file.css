@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0px;
   padding: 1%;
+  position: relative;
 }
 
 #header {
@@ -73,7 +74,7 @@
 	float: left;
 	height: 36px;
 	width: 36px;
-	padding: 5%;
+	padding: 2%;
 	margin-top: 2%;
 	margin-bottom: 2%;
 	margin-left: 2%;
@@ -81,7 +82,7 @@
 }
 
 #github {
-	align-items: center;
+	align-items: left;
 }
 
 #linked {
@@ -89,12 +90,12 @@
 }
 
 #stack {
-	align-items: center;
+	align-items: right;
 }
 
 .ruler {
+	color: #7B7B7C;
 	height: 1px;
-	border-color: black;
 }
 
 #list {
