@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
   margin: 0px;
-  padding: 1%;
   position: relative;
 }
 
@@ -38,6 +37,12 @@
 
 #li2 {
 	display: inline;
+	border-left: 1px;
+	border-color: black;
+	border-style: solid;
+	border-right: 1px;
+	border-color: black;
+	border-style: solid;
 }
 
 #li3 {
@@ -73,7 +78,7 @@
 
 #text {
 	display: block;
-	padding: 1%;
+	padding: 0%;
 }
 
 #contact {
@@ -97,6 +102,11 @@
 	margin-bottom: 2%;
 	margin-left: 2%;
 	margin-right: 2%;
+}
+
+#buttons {
+	margin-left: 10%;
+
 }
 
 #github {
