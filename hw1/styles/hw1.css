@@ -86,18 +86,12 @@ header {
 #profile {
 	height: 137px;
 	width: 95px;
-	padding: 1%;
+	float: left;
 }
-
-#picbox {
-	height: 200px;
-	width: 200px;
-}
-
 
 #biotext {
 	height: 200px;
-	width: 200px;
+	width: 650;
 }
 
 #connect {
