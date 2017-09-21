@@ -81,17 +81,23 @@ header {
 	height: 400px;
 	background-color: white;
 	float: left;
+	padding: 10px;
 }
 
 #profile {
 	height: 137px;
 	width: 95px;
 	float: left;
+	margin-top: 75px;
 }
 
 #biotext {
 	height: 200px;
 	width: 650;
+}
+
+h2 {
+	color: #63a8a4;
 }
 
 #connect {
@@ -117,14 +123,12 @@ header {
 
 #linked {
 	float:left;
-		width: 33%;
-
+	width: 33%;
 }
 
 #stack {
 	float:left;
-		width: 33%;
-
+	width: 33%;
 }
 
 footer {
