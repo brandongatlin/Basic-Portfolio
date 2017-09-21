@@ -6,7 +6,6 @@ header {
 	width: 100%;
 	height: 100px;
 	background-color: pink;
-
 }
 
 #headercontent {
@@ -18,9 +17,9 @@ header {
 #headertext {
 	width: 300px;
 	height: 80px;
-	margin-top: 15px;
+	margin-top: 18px;
 	color: blue;
-	font-size: small;
+	font-size: 40px;
 	background-color: red;
 	float: left;
 }
@@ -60,13 +59,14 @@ header {
 	width: 100%;
 	height: 600px;
 	background-color: red;
+	background-image: url("../images/sandpaper/sandpaper.png");
 }
 
 #maincontent {
 	margin: auto;
 	width: 960px;
 	height: 600px;
-	background-color: white;
+		background-image: url("../images/sandpaper/sandpaper.png");
 
 }
 
