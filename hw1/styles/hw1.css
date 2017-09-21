@@ -106,19 +106,24 @@ header {
 }
 
 #buttons {
+	margin: auto;
 }
 
 #github {
 	float:left;
-	padding: 5px;
+	width: 33%;
 }
 
 #linked {
 	float:left;
+		width: 33%;
+
 }
 
 #stack {
 	float:left;
+		width: 33%;
+
 }
 
 footer {
