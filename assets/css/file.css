@@ -137,23 +137,24 @@ h2 {
 #buttons {
     margin: auto;
     margin-top: 30px;
-    color: black;
-
 }
 
 #github {
     float: left;
     width: 33%;
+    color: black;
 }
 
 #linked {
     float: left;
     width: 33%;
+    color: blue;
 }
 
 #stack {
     float: left;
     width: 33%;
+    color: orange;
 }
 
 footer {
@@ -211,13 +212,13 @@ footer {
     height: 200px;
 }
 
-#submit {
-}
+#submit {}
 
 #portfoliobox {
     width: 650px;
     height: 600px;
     margin-top: 100px;
+    padding: 10px;
     background-color: yellow;
     float: left;
     background-color: #ffffff;
@@ -226,9 +227,10 @@ footer {
 .picbox {
     border-style: solid;
     border: 1px, black;
-    background-color: yellow;
+    background-color: #ffffff;
     height: 175px;
     width: 250px;
+    padding: 5px;
 }
 
 #boxholder {
@@ -246,16 +248,14 @@ footer {
 
 #picbox3 {
     float: left;
-
 }
 
 #picbox2 {
-    float: left;
-
+    float: right;
 }
 
 #picbox4 {
-    float: left;
+    float: right;
 }
 
 .pix {
