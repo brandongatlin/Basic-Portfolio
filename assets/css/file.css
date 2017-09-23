@@ -229,12 +229,34 @@ footer {
     background-color: yellow;
     height: 150px;
     width: 150px;
-    float: left;
 }
 
 #boxholder {
-    border: 1px, black;
-    border-style: solid;
     width: 650px;
     height: 350px;
+}
+
+.picrow {
+    border: 1px, red;
+    height: 200px;
+    border-style: solid;
+}
+
+#picbox1 {
+    float: left;
+}
+
+#picbox3 {
+    float: left;
+
+}
+
+#picbox2 {
+    float: left;
+
+}
+
+#picbox4 {
+    float: left;
+
 }
