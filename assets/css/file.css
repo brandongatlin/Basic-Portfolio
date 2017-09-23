@@ -82,21 +82,28 @@ header {
     padding: 10px;
 }
 
-#profile {
-    height: 137px;
-    width: 95px;
-    float: left;
-    margin-top: 75px;
-}
-
-#biotext {
+#bio {
     height: 200px;
     width: 650;
+}
+
+#biotexttitle {
+    clear: left;
 }
 
 h2 {
     color: #63a8a4;
     font-size: 30px;
+}
+
+#biotext {
+
+}
+
+#profile {
+    height: 137px;
+    width: 95px;
+    float: left;
 }
 
 #connect {
