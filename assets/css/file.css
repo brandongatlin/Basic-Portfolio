@@ -96,15 +96,15 @@ header {
 
 h2 {
     color: #63a8a4;
+    font-size: 30px;
 }
 
 #connect {
     margin-top: 100px;
     width: 270px;
     height: 200px;
+    font-size: 40px;
     background-color: white;
-    color: #63a8a4;
-    font-size: 20px;
     text-align: center;
     float: right;
 }
