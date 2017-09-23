@@ -4,6 +4,8 @@ header {
     width: 100%;
     height: 100px;
     background-color: white;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 #headercontent {
@@ -79,12 +81,12 @@ header {
     height: 400px;
     background-color: white;
     float: left;
-    padding: 10px;
 }
 
 #bio {
     height: 200px;
     width: 650;
+    padding: 25px;
 }
 
 #biotexttitle {
@@ -97,6 +99,7 @@ h2 {
 }
 
 #biotext {
+    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -104,6 +107,7 @@ h2 {
     height: 137px;
     width: 95px;
     float: left;
+    padding-right: 25px;
 }
 
 #connect {
