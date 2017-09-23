@@ -17,7 +17,7 @@ header {
     width: 300px;
     height: 80px;
     margin: 18px;
-    color: white;
+    color: #ffffff;
     font-size: 20px;
     text-align: center;
     background-color: #63a8a4;
@@ -159,7 +159,7 @@ footer {
     margin-top: 30px;
     width: 100%;
     height: 40px;
-    color: #666666;
+    color: #ffffff;
     background-color: none;
     float: left;
 }
