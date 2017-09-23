@@ -1,5 +1,9 @@
 * {}
 
+p {
+    font-size: 14px;
+}
+
 header {
     width: 100%;
     height: 100px;
@@ -97,7 +101,7 @@ header {
 }
 
 #bio {
-    height: 200px;
+    height: 400px;
     width: 600px;
     padding: 25px;
 }
